@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@600&display=swap');
+*{
+margin: 0%;
+padding: 0%;
+}
+.foto{
+background-size: cover;
+width: 100%;
+height: 100%;
+object-fit: cover;
+position: absolute;
+}
+#message{
+position: absolute;
+color: #23683b;
+margin-top: 90%;
+font-size: 164%;
+top: 90%;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%);
+font-family: 'Fira Sans', sans-serif;
+z-index: 99;
+margin: 0;
+}
+
